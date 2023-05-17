@@ -1,14 +1,22 @@
 # FileSharing App
 This app helps to share the files from sender to receiver.
 
-link for online website
+link for online website 
+sender side:
+https://filesharing-4scu.onrender.com/
+
+receiver side:
+https://filesharing-4scu.onrender.com/receiver.html
 
 ## Technology used
 HTML
 CSS
 JS
 
-Import repo by link
+Import repo by 
+```
+git clone [link](https://github.com/anchitgupta01/FileSharing.git)
+```
 
 ### steps to open website
 
