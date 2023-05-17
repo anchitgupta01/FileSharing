@@ -15,7 +15,7 @@ JS
 
 Import repo by 
 ```
-git clone [link](https://github.com/anchitgupta01/FileSharing.git)
+git clone https://github.com/anchitgupta01/FileSharing.git
 ```
 
 ### steps to open website
